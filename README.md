@@ -50,7 +50,7 @@ Sports analytics project built using ball-by-ball IPL data from **2011–2025**,
 ✔️ Batter vs Bowler Matchups  
 
 #### Tools Used:
-SQL | Power BI | Excel
+Power BI | Excel
 
 📁 Project Folder: `IPL-Analysis`
 
