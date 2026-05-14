@@ -35,11 +35,3 @@ Explore batter vs bowler head-to-head performance to uncover matchup trends and 
 ✔️ Successful Chases Above 200  
 ✔️ Batter vs Bowler Matchup Analysis  
 
-
-
----
-
-## 📷 Dashboard Preview
-
-### Main Dashboard
-![IPL Dashboard](screenshots/overview.png)
