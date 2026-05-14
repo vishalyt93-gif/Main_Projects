@@ -1,7 +1,7 @@
 # 🏏 IPL Tournament Analysis Dashboard
 
 ## 🚀 Project Overview
-Built an interactive Power BI dashboard to analyze Indian Premier League match data and provide tournament insights across team performance, player statistics, match situations, and head-to-head player matchups.
+Built an interactive Power BI dashboard using historical IPL data from **2011–2025**, analyzing **500,000+ ball-by-ball records** and provide tournament insights across team performance, player statistics, match situations, and head-to-head player matchups.
 
 This project was created to explore cricket analytics and demonstrate data visualization, DAX calculations, and interactive dashboard design.
 
