@@ -10,6 +10,7 @@ These projects were created to strengthen my practical analytics skills and show
 
 - SQL
 - Power BI
+- Excel
 - Data Cleaning
 - Data Modeling
 - DAX Measures
